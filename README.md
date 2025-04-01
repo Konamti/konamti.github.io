@@ -57,7 +57,6 @@ N/A
 
 ## Author
 
-- Website - [Konate Mohamed Tidiane](https://github.com/Konamti/konamti.github.io.gi)
 - Frontend Mentor - [@konamti](https://www.frontendmentor.io/profile/konamti)
 
 ## Acknowledgments
