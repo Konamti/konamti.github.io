@@ -1,8 +1,6 @@
-# konamti.github.io
+# Frontend Mentor - QR code component solution
 
 Frontend Qr code project
-
-## Table of contents
 
 ## Table of contents
 
@@ -21,7 +19,7 @@ Frontend Qr code project
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./qrCodeProjectScreenshoot.png)
 
 ### Links
 
@@ -35,3 +33,33 @@ Frontend Qr code project
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+### What I learned
+
+I learnt a new property I had difficulty understanding for time in CSS. I also learnt how insert attribution.
+
+```css
+.body {
+  min-height: 100vh;
+}
+.section {
+  max-width: 320px;
+}
+```
+
+### Continued development
+
+I would like to improve my CSS responsive skills alot and flexbox properties. I would love to reinforce my knowledge on flexbox and other related properties.
+
+### Useful resources
+
+N/A
+
+## Author
+
+- Website - [Konate Mohamed Tidiane](https://github.com/Konamti/konamti.github.io.gi)
+- Frontend Mentor - [@konamti](https://www.frontendmentor.io/profile/konamti)
+
+## Acknowledgments
+
+N/A
