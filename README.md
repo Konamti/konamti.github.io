@@ -61,4 +61,4 @@ N/A
 
 ## Acknowledgments
 
-N/A
+Huxn Webdev, on youtube. I followed his tutorials and it helped me alot in my coding journey.
